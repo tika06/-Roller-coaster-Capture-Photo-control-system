@@ -1,0 +1,240 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="端口侦听控制系统.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="grp_listening_comunication_config_port_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="grp_listening_comunication_config_baud_rate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="grp_listening_comunication_config_databit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="grp_listening_comunication_config_parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="grp_listening_comunication_config_stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_comunication_config_port_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_comunication_config_baud_rate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_comunication_config_databit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_comunication_config_parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_comunication_config_stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="grp_output_2_port_comunication_config_port_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="grp_output_2_port_comunication_config_baud_rate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="grp_output_2_port_comunication_config_databit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="grp_output_2_port_comunication_config_parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="grp_output_2_port_comunication_config_stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="grp_output_3_port_comunication_config_port_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="grp_output_3_port_comunication_config_baud_rate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="grp_output_3_port_comunication_config_databit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="grp_output_3_port_comunication_config_parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="grp_output_3_port_comunication_config_stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="grp_output_4_port_comunication_config_port_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="grp_output_4_port_comunication_config_baud_rate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="grp_output_4_port_comunication_config_databit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="grp_output_4_port_comunication_config_parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="grp_output_4_port_comunication_config_stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="grp_output_1_control_config_shoot_delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_1_control_config_series_shoot_timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_1_control_config_shoot_neglect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_control_config_shoot_delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_2_control_config_series_shoot_timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_2_control_config_shoot_neglect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_control_config_shoot_delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_3_control_config_series_shoot_timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_3_control_config_shoot_neglect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_control_config_shoot_delay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_4_control_config_series_shoot_timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_4_control_config_shoot_neglect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_1_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_2_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_3_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_4_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_1_port_write_data" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_port_write_data" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_port_write_data" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_port_write_data" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="autorun_listening" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autorun_output_1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autorun_output_2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autorun_output_3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autorun_output_4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="grp_output_1_message_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_1_message_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_message_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_message_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_message_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_message_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_message_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_message_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_1_window_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_1_window_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_window_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_2_window_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_window_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_3_window_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_window_data_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_4_window_data_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="grp_output_1_control_config_additional_number" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_1_control_config_additional_amount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_1_control_config_additional_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_2_control_config_additional_number" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_2_control_config_additional_amount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_2_control_config_additional_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_3_control_config_additional_number" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_3_control_config_additional_amount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_3_control_config_additional_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="grp_output_4_control_config_additional_number" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_4_control_config_additional_amount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="grp_output_4_control_config_additional_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
